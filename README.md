@@ -18,7 +18,7 @@ Clone o repositório e execute o script Python:
 
 ```bash
 git clone https://github.com/Hacker666EXE/SPEEDSHELL
-cd speed-shell
+cd SPEEDSHELL
 python SPEEDSHELL.py
 ```
 ![SPEEDSHELL](SPEEDSHELL.jpg)
