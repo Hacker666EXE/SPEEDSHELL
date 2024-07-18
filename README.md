@@ -1,4 +1,4 @@
-# Speed Shell
+# Speed Shell v0.1
 
 ## Descrição
 Speed Shell é uma ferramenta poderosa e rápida para criar shells reversos em diversos ambientes, com Python, Netcat, PHP e Bash. Ideal para testes e desenvolvimento, Speed Shell permite configurar conexões de forma eficiente e prática.
